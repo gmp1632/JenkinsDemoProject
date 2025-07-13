@@ -2,7 +2,7 @@ package com.jenkins;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello from Jenkins Build!");
+        System.out.println("CI Triggered Automatically via Poll SCM!");
     }
 }
 
